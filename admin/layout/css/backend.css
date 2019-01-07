@@ -1,0 +1,24 @@
+.fo{
+	width:30%;
+	margin: 50px auto;
+}
+.members-table{
+	margin: 150px auto;
+	margin-bottom: 10px;
+	width:90%;
+}
+.members-table .h1{
+	display:inline-block;
+	margin:0 auto;
+}
+.spinner-border{
+	display:inline-block;
+}
+.btn{
+	margin:3px;
+}
+
+.btn-manage{
+	margin-left:70px;
+	margin-bottom:30px;
+}
